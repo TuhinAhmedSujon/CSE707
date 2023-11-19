@@ -1,13 +1,13 @@
 Link to unlisted YouTube video:
-https://youtu.be/EDEcGQLF-u4?si=TqnR9j6xYS_PGrhf
+https://youtu.be/qRULC3uWpO0?si=8EcRiaPKRcppzuym
 
 Public link to the slide (Anyone on the internet can view without login): https://docs.google.com/presentation/d/10otRDXmB9Wg1yr7xdJaIONRVGxhhQcFC/edit?usp=sharing&ouid=102945991500436520104&rtpof=true&sd=true
 
 Paper title:
-Technologies for Big Data
+Hybrid Genetic Firefly Algorithm Based Routing Protocol for VANETs
 
 Link to the paper:
-https://www.sciencedirect.com/science/article/pii/S1319157817300034
+https://ieeexplore.ieee.org/document/9681052
 
 Group Number:
 18
